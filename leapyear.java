@@ -32,11 +32,11 @@ class Ideone
         //Output the test result
         if(isLeapYear)
         {
-            System.out.println("Year "+year+" is a Leap Year");
+            System.out.println("Yes");
         }
         else
         {
-            System.out.println("Year "+year+" is not a Leap Year");
+            System.out.println("No");
         }
  
 	}
